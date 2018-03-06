@@ -2,8 +2,6 @@
 
 egg vue 服务端渲染模版引擎插件。
 
-可与其他模版
-
 ## Install
 
 ```bash
@@ -44,7 +42,7 @@ config.vuessr = {
 };
 ```
 
-### Render
+## Render
 
 ```js
 class VueSsrController extends Controller {
